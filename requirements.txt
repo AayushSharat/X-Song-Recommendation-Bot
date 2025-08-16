@@ -3,3 +3,8 @@ requests
 spotipy
 python-dotenv
 feedparser
+os
+random
+datetime
+time
+schedule

@@ -1,5 +1,0 @@
-tweepy
-requests
-spotipy
-python-dotenv
-feedparser

@@ -1,0 +1,4 @@
+tweepy
+requests
+spotipy
+python-dotenv

@@ -1,0 +1,10 @@
+# Secrets
+.env
+.env.*
+
+# Python junk
+__pycache__/
+*.pyc
+
+# Spotipy cache
+.cache/

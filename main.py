@@ -51,8 +51,8 @@ def post_song_of_the_day():
     except Exception as e:
         print("Error:", e)
 
-# Schedule at 9:00 AM daily
-schedule.every().day.at("11:30").do(post_song_of_the_day)
+# Schedule at 10:00 AM daily
+schedule.every().day.at("10:00").do(post_song_of_the_day)
 
 print("Bot started... waiting for schedule")
 
